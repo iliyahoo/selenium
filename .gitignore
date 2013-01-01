@@ -1,0 +1,2 @@
+^(?!.*\.py$|\.hgignore$|\.gitignore$|README.md$).*$
+
